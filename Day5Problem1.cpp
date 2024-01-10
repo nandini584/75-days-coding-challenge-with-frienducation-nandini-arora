@@ -31,3 +31,5 @@ public:
         return nums;
     }
 };
+// Time complexity O(n)
+//space complexity O(1)
